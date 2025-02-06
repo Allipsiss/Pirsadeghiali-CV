@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Ali Pirsadeghi</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Ali Pirsadeghi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2024 Ali Pirsadeghi</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Highly sensitive varinat detection in VNTR is possible with exome sequencing: the example of MUC1-related nephropathy</title>
+      <link>/talk/eshg2024/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/eshg2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinically boosted exome-sequencing is necessary for accurate and highly sensitive genetic diagnosis of ADTKD-MUC1</title>
+      <link>/talk/era2024/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/era2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing and characterizing X-linked Alport syndrome kidney organoid model with deep-intronic variation for drug discovery</title>
+      <link>/talk/asmb2024/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/asmb2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genotyping coding VNTR in MUC1 gene in ADTKD using SRS data</title>
+      <link>/talk/sfb1453/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/sfb1453/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep-intronic variants in the X-linked Alport syndrome: From detection to therapeutic hopes</title>
+      <link>/talk/14podo_us/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/14podo_us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homozygosity mapping in maple syrup urine disease from Iran: Identification and in silico analysis of novel mutations</title>
+      <link>/talk/eshg2018/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/eshg2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

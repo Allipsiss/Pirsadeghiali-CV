@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Ali Pirsadeghi</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Ali Pirsadeghi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2024 Ali Pirsadeghi</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>My research focuses on identifying and characterizing genetic variants associated with hereditary diseases. Currently, I am working at the Laboratory of Hereditary Renal Diseases, directed by Prof. Corinne Antignac, at the Imagine Institute in Paris. My interests lie in advancing genetic diagnostics and developing robust disease models to facilitate variant characterization and therapy development.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description>Using VNtyper from Whole Exome Sequencing Data to Detect Pathogenic Variants in the MUC1 Gene. Journal of the American Society of Nephrology 2024. Hassan Saei, Cécile Masson, Vincent Morinière, Jessica Kachmar, Laurence Heidet, Olivier Gribouval, Corinne Antignac, Guillaume Dorval         A wave of deep intronic mutations in X-linked Alport syndrome. Kidney International 2023. Marie Boisson, Christelle Arrondel, Nicolas Cagnard, Vincent Morinière, Zaïna Aït Arkoub, Hassan Saei, Laurence Heidet, Jessica Kachmar, Aurélie Hummel, Bertrand Knebelmann, Marie-Noëlle Bonnet-Dupeyron, Bertrand Isidor, Hassane Izzedine, Eric Legrand, Philippe Couarch, Olivier Gribouval, Christine Bole-Feysot, Mélanie Parisot, Patrick Nitschké, Corinne Antignac, Guillaume Dorval         VNtyper enables accurate alignment-free genotyping of MUC1 coding VNTR using short-read sequencing data in autosomal dominant tubulointerstitial kidney disease.</description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>/home/presentations/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/home/presentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

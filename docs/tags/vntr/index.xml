@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vntr on Ali Pirsadeghi</title>
+    <link>/tags/vntr/</link>
+    <description>Recent content in Vntr on Ali Pirsadeghi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2024 Ali Pirsadeghi</copyright>
+    <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/vntr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A tool to genotype coding VNTR in ADTKD-MUC1</title>
+      <link>/project/adtkd/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/project/adtkd/</guid>
+      <description>Autosomal dominant tubulointerstitial kidney disease (ADTKD) is a hereditary condition characterized by progressive tubulointerstitial fibrosis with or without tubular dilation and atrophy, eventually leading to end-stage kidney failure. The affected individuals present mild to negative proteinuria, and bland urinary sediment abnormalities, with normal kidney size. A positive family history is commonly reported for this disease. Molecular genetics play a key role in diagnosing and classifying ADTKD given their non-specific presentations. Pathogenic variants in different genes, including MUC1, UMOD, HNF1B, REN, and SEC61A1, are known to be responsible for ADTKD.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aso on Ali Pirsadeghi</title>
+    <link>/tags/aso/</link>
+    <description>Recent content in Aso on Ali Pirsadeghi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2024 Ali Pirsadeghi</copyright>
+    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/aso/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Splice modulation therapy development using XLAS organoid models</title>
+      <link>/project/organoid_aso/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/project/organoid_aso/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
